@@ -27,7 +27,7 @@
 	    --w2a.cljs //微信转支付宝配置信息
 	  convert //代码转换
 	    --index.js //主转换
-	    --a2w.cljs //支付宝转微信
-	    --w2a.cljs //微信转支付宝
+	    --a2w.js //支付宝转微信
+	    --w2a.js //微信转支付宝
 	--index.js //入口
 
